@@ -13,4 +13,4 @@ for (int i = 0; i < length; i++)
         sum += array[i];
     }
 }
-Console.WriteLine(sum);
+Console.WriteLine($"Сумма эллементов стоящих на нечетных позициях {sum}");
